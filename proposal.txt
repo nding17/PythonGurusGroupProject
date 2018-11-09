@@ -1,0 +1,11 @@
+Proposal: 
+
+This project is inspired by an ongoing Kaggle image recognition challenge. Google has released datasets with substantial amount of images (labeled) containing various objects. The goal is to build a deep learning model trained and tuned by those images and would be able to recognize objects of similar kind (but never seen before). Our program needs to utilize that calibrated model to identify objects in a new image by cropping them into boxes. 
+
+Kaggle data page link: https://www.kaggle.com/c/inclusive-images-challenge/data
+
+Our project aims to, first, identify as many objects as possible from the background environment in a given image, and then, based on the features extracted from those croppings by the machine learning model, identify what that object is, e.g. flowers, cars, animals, etc (but we plan to start simple by restricting the complexity of the training set first, i.e. detect flower vs car only for the first iteration).
+
+Several tools such as openCV, sklearn and so on, would be used for the completion of this project. Instead of running pages of code to produce graphs and statistical analysis, we will design a simple graphical user interface that simply asks for an input image and displays a list of cropped images for the labeled objects. 
+
+
