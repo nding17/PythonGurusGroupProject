@@ -1,1 +1,1 @@
-# PythonGurusGroupProject
+# SimpleObjectRecognition
