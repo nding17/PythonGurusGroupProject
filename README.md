@@ -22,7 +22,7 @@ Data in this project is devided into **three sections**.
 
 ### Installation instructions
 
-In order to run the code above, you need to install some essential liabraries:
+In order to run the code above, you need to install some essential liabraries:<br/>
 ```pip install TensorFlow  ```
 
 
