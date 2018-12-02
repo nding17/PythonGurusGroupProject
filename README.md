@@ -49,7 +49,7 @@ This process will accelerate our training time.
 * **Dense Layer #1**: 512 neurons, with dropout regularization rate of 0.25
 * **Dense Layer #2 (Logits Layer)**: 10 neurons, one for each digit target class (0–9).
 
-<img src="https://github.com/nding17/SimpleObjectRecognition/blob/master/data/readme_data/pic4.png" width="300" height="500">
+<img src="https://github.com/nding17/SimpleObjectRecognition/blob/master/data/readme_data/pic4.png" width="500" height="600">
 
 ## Results
 * when we evaluate the model based on training data, the accuracy rate is 78.65%, when we evaluate the model based on testing data, he accuracy rate is 61.66. We think this result is fine becauese of there are  total 10 categories.
@@ -57,7 +57,8 @@ This process will accelerate our training time.
 ## Installation instructions
 In order to run the code above, you need to install some essential liabraries:<br/>
 ```pip install TensorFlow  ``` <br/>
-```pip install keras ```
+```pip install keras ``` <br/>
+```pip install PyQt5 ```
 
 
 ## Run instructions
