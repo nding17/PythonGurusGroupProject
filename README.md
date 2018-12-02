@@ -2,7 +2,7 @@
 #### Group name:A+++++               Section: 2
 
 ### Brief introduction to what we have done
-Here we use the Convolutional Neural Network (CNN) and Keras to build a model to classify images. After finishing the model training and testing, a graphical user interface(GUI) is built to facilitate the application of this code trunk.
+Here we use the Convolutional Neural Network (CNN) and Keras to build a model to classify images (code outlined in the file `cnn-model.ipynb`). After finishing the model training and testing, a graphical user interface(GUI) is built to facilitate the application of this code trunk (code outlined in the file `GUI.ipynb`).
 
 ### What is CNN?
 A CNN is a supervised learning technique which needs both input data and target output data to be supplied. These are classified by using their labels in order to provide a learned model for future data analysis.
@@ -16,14 +16,16 @@ CNNs use **relatively little pre-processing** compared to other image classifica
 ### Data
 
 Data in this project is devided into **three sections**. 
-* **Testing data**: the data we use to build the models
-* **Traning data**: untouched data to verify the effectiveness of the built model
+* **Training data**: the data we use to build the models
+* **Testing data**: untouched data to verify the effectiveness of the built model
 * **Online data**: evaluate the CNN model from random images searched online and do some interesting application
 
 ### Installation instructions
 
 In order to run the code above, you need to install some essential liabraries:<br/>
-```pip install TensorFlow  ```
+```pip install TensorFlow  ``` <br/>
+```pip install keras ```
 
 
 ### Run instructions
+* To run CNN 
