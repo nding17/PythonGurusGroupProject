@@ -29,13 +29,13 @@ Data in this project is devided into **three sections**.
 * construct the training and testing dataset
     * training dataset: 5 batches data ,each of which contains 10000 images
     * testing dataset: 1 batch data, that is 10000 images 
-* This program is meant to be run once for all. <br\>
+* This program is meant to be run once for all. <br/>
 In case that you accidentally run the program twice and to avoid duplicating images, we wrote a  'refresh_folder' function to make sure that you have deleted everything before saving the images and labels.
 * save the images and labels and converte the images into ‘png’ format
 
 ### Image Data processing 
 * construct a dictionary with image name and label in file `cnn-model.ipynb`
-* use the one hot encoding to change each label to an array with 1 and 0. <br\>
+* use the one hot encoding to change each label to an array with 1 and 0. <br/>
 This process will accelerate our training time. 
 * reshape the image data to a 1-d array with a length of 32*32
 
