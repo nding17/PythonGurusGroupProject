@@ -29,8 +29,13 @@ In order to run the code above, you need to install some essential liabraries:<b
 * To run `cnn-model.ipynb`: Just run the whole file to do model traning and testing because we have imported all the relavant modules.
 * To run `GUI.ipynb`: Open the file and run the file. An friendly interface will appear and direct you to choose a picture.
     * upload image window 
-    ![](https://github.com/nding17/SimpleObjectRecognition/raw/master/readme_data/pic1.jpg)
+    
+    ![](https://github.com/nding17/SimpleObjectRecognition/blob/master/data/readme_data/pic1.jpg)
+    
     * choose an image from your own desktop
-    ![](https://github.com/nding17/SimpleObjectRecognition/raw/master/readme_data/pic2.jpg)
+    
+    ![](https://github.com/nding17/SimpleObjectRecognition/blob/master/data/readme_data/pic1.jpg)
+    
     * return the recognization result
-    ![](https://github.com/nding17/SimpleObjectRecognition/raw/master/readme_data/pic3.jpg) 
+    
+    ![](https://github.com/nding17/SimpleObjectRecognition/blob/master/data/readme_data/pic1.jpg) 
