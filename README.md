@@ -1,4 +1,4 @@
 # SimpleObjectRecognition
-##Brief introduction to what we have done
+Brief introduction to what we have done
 -----
 =====
