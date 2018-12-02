@@ -28,4 +28,5 @@ In order to run the code above, you need to install some essential liabraries:<b
 
 
 ### Run instructions
-* To run CNN 
+* To run `cnn-model.ipynb`: Just run the whole file to do model traning and testing because we have imported all the relavant modules.
+* To run `GUI.ipynb`: Open the file and run the file. An friendly interface will appear and direct you to choose a picture.
