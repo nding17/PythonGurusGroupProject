@@ -34,4 +34,5 @@ In order to run the code above, you need to install some essential liabraries:<b
 * To run `cnn-model.ipynb`: Just run the whole file to do model traning and testing because we have imported all the relavant modules.
 * To run `GUI.ipynb`: Open the file and run the file. An friendly interface will appear and direct you to choose a picture.
     * upload image
-    ![]('../data/training/img')
+    ![](https://github.com/kallyzhu/SimpleObjectRecognition/raw/master/data/readme_data/pic1.jpg)
+    ![]('../data/readme_data/pic1')
