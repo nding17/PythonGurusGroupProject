@@ -16,9 +16,14 @@ CNNs use **relatively little pre-processing** compared to other image classifica
 ### Data
 
 Data in this project is devided into **three sections**. 
-* **Testing data**:
-* **Traning data**:
-* **Online data**:
+* **Testing data**: the data we use to build the models
+* **Traning data**: untouched data to verify the effectiveness of the built model
+* **Online data**: evaluate the CNN model from random images searched online and do some interesting application
+
 ### Installation instructions
+
+In order to run the code above, you need to install some essential liabraries:
+```pip install TensorFlow  ```
+
 
 ### Run instructions
